@@ -3,6 +3,7 @@
     "description": "A strict implementation of PSR-20 standard",
     "type": "library",
     "require": {
+        "php": ">=7.2",
         "psr/clock": "^1.0"
     },
     "require-dev": {

@@ -14,6 +14,11 @@
             "Mguinea\\Psr20\\": "src/"
         }
     },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\Mguinea\\Psr20\\": "tests/"
+        }
+    },
     "authors": [
         {
             "name": "Marc Guinea",

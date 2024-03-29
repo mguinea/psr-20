@@ -1,0 +1,24 @@
+{
+    "name": "mguinea/psr-20",
+    "description": "A strict implementation of PSR-20 standard",
+    "type": "library",
+    "require": {
+        "psr-20": "1.0",
+        "psr/clock": "1.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mguinea\\Psr20\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marc Guinea",
+            "email": "develop.marcguinea@gmail.com"
+        }
+    ]
+}

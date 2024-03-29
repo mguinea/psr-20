@@ -3,7 +3,6 @@
     "description": "A strict implementation of PSR-20 standard",
     "type": "library",
     "require": {
-        "psr-20": "1.0",
         "psr/clock": "1.0"
     },
     "require-dev": {

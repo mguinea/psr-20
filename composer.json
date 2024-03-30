@@ -1,6 +1,7 @@
 {
     "name": "mguinea/psr-20",
     "description": "A strict implementation of PSR-20 standard",
+    "keywords": ["psr-20"],
     "type": "library",
     "require": {
         "php": ">=7.2",
